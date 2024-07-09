@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/guthi/static/css/main.bc25d2ed.css",
+    "main.js": "/guthi/static/js/main.7aacc8f7.js",
+    "static/js/453.fae8c32d.chunk.js": "/guthi/static/js/453.fae8c32d.chunk.js",
+    "static/media/patandurbarsquare.png": "/guthi/static/media/patandurbarsquare.05c078c3648671d1815e.png",
+    "static/media/Maskgroup.png": "/guthi/static/media/Maskgroup.2f4add11dd07048ecc9d.png",
+    "static/media/Flag_of_Nepal.gif": "/guthi/static/media/Flag_of_Nepal.351ba8a834753b72c47e.gif",
+    "static/media/2.png": "/guthi/static/media/2.12159d43b381ad6fd57c.png",
+    "static/media/sajan shrestha  MIT  Resume.pdf": "/guthi/static/media/sajan shrestha  MIT  Resume.22614ff7954a36f76d0c.pdf",
+    "static/media/guthi sansthan.png": "/guthi/static/media/guthi sansthan.8c15471e4186158935a5.png",
+    "static/media/sagar_shrestha_Resume (1).pdf": "/guthi/static/media/sagar_shrestha_Resume (1).90503f7889d533156f0d.pdf",
+    "static/media/image.png": "/guthi/static/media/image.b845c19e932b8813e42d.png",
+    "static/media/images.png": "/guthi/static/media/images.ee152c6ab1c273a47fd8.png",
+    "static/media/NepalFlag.png": "/guthi/static/media/NepalFlag.f39402d1a540f1527d13.png",
+    "static/media/nepalLogo.png": "/guthi/static/media/nepalLogo.db8d98d425bbf1ce8a0d.png",
+    "static/media/bouddhanath.jpeg": "/guthi/static/media/bouddhanath.b89fdb2d9a9bf0765691.jpeg",
+    "static/media/images.jpeg": "/guthi/static/media/images.b89fdb2d9a9bf0765691.jpeg",
+    "static/media/janaki.jpeg": "/guthi/static/media/janaki.a0edb29d221bd73918a5.jpeg",
+    "static/media/pashupati.jpeg": "/guthi/static/media/pashupati.97c239635bca085a3ba7.jpeg",
+    "static/media/MithilaFlag.png": "/guthi/static/media/MithilaFlag.288c79705a6125dcdb12.png",
+    "static/media/NewariDescription.txt": "/guthi/static/media/NewariDescription.1675dbb35312ff2a8622.txt",
+    "static/media/logo.svg": "/guthi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/EnglishDescription.txt": "/guthi/static/media/EnglishDescription.d2c323a9768069872a06.txt",
+    "index.html": "/guthi/index.html",
+    "static/media/EnglishFlag.svg": "/guthi/static/media/EnglishFlag.aac36550119a2382e2a14f7b2386f497.svg",
+    "main.bc25d2ed.css.map": "/guthi/static/css/main.bc25d2ed.css.map",
+    "main.7aacc8f7.js.map": "/guthi/static/js/main.7aacc8f7.js.map",
+    "453.fae8c32d.chunk.js.map": "/guthi/static/js/453.fae8c32d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc25d2ed.css",
+    "static/js/main.7aacc8f7.js"
+  ]
+}
