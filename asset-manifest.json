@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GUTHI/static/css/main.d3c9520c.css",
-    "main.js": "/GUTHI/static/js/main.a6a2389e.js",
+    "main.css": "/GUTHI/static/css/main.1124e8a8.css",
+    "main.js": "/GUTHI/static/js/main.406022e3.js",
     "static/js/453.fae8c32d.chunk.js": "/GUTHI/static/js/453.fae8c32d.chunk.js",
     "static/media/patandurbarsquare.png": "/GUTHI/static/media/patandurbarsquare.05c078c3648671d1815e.png",
     "static/media/Maskgroup.png": "/GUTHI/static/media/Maskgroup.2f4add11dd07048ecc9d.png",
@@ -24,12 +24,12 @@
     "static/media/EnglishDescription.txt": "/GUTHI/static/media/EnglishDescription.d2c323a9768069872a06.txt",
     "index.html": "/GUTHI/index.html",
     "static/media/EnglishFlag.svg": "/GUTHI/static/media/EnglishFlag.aac36550119a2382e2a14f7b2386f497.svg",
-    "main.d3c9520c.css.map": "/GUTHI/static/css/main.d3c9520c.css.map",
-    "main.a6a2389e.js.map": "/GUTHI/static/js/main.a6a2389e.js.map",
+    "main.1124e8a8.css.map": "/GUTHI/static/css/main.1124e8a8.css.map",
+    "main.406022e3.js.map": "/GUTHI/static/js/main.406022e3.js.map",
     "453.fae8c32d.chunk.js.map": "/GUTHI/static/js/453.fae8c32d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3c9520c.css",
-    "static/js/main.a6a2389e.js"
+    "static/css/main.1124e8a8.css",
+    "static/js/main.406022e3.js"
   ]
 }
