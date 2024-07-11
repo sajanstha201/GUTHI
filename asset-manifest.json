@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GUTHI/static/css/main.25bcc70a.css",
-    "main.js": "/GUTHI/static/js/main.78ec722e.js",
+    "main.js": "/GUTHI/static/js/main.c4458d7a.js",
     "static/js/453.fae8c32d.chunk.js": "/GUTHI/static/js/453.fae8c32d.chunk.js",
     "static/media/patandurbarsquare.png": "/GUTHI/static/media/patandurbarsquare.05c078c3648671d1815e.png",
     "static/media/Maskgroup.png": "/GUTHI/static/media/Maskgroup.2f4add11dd07048ecc9d.png",
@@ -31,11 +31,11 @@
     "index.html": "/GUTHI/index.html",
     "static/media/EnglishFlag.svg": "/GUTHI/static/media/EnglishFlag.aac36550119a2382e2a14f7b2386f497.svg",
     "main.25bcc70a.css.map": "/GUTHI/static/css/main.25bcc70a.css.map",
-    "main.78ec722e.js.map": "/GUTHI/static/js/main.78ec722e.js.map",
+    "main.c4458d7a.js.map": "/GUTHI/static/js/main.c4458d7a.js.map",
     "453.fae8c32d.chunk.js.map": "/GUTHI/static/js/453.fae8c32d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25bcc70a.css",
-    "static/js/main.78ec722e.js"
+    "static/js/main.c4458d7a.js"
   ]
 }
