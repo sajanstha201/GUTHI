@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/GUTHI/static/css/main.2d2024f6.css",
-    "main.js": "/GUTHI/static/js/main.e07bc953.js",
+    "main.css": "/GUTHI/static/css/main.552b5e5f.css",
+    "main.js": "/GUTHI/static/js/main.014b5b9c.js",
     "static/js/453.fae8c32d.chunk.js": "/GUTHI/static/js/453.fae8c32d.chunk.js",
+    "static/media/My Movie.mp4": "/GUTHI/static/media/My Movie.7559772bfd5e596f0aeb.mp4",
     "static/media/patandurbarsquare.png": "/GUTHI/static/media/patandurbarsquare.05c078c3648671d1815e.png",
-    "static/media/Maskgroup.png": "/GUTHI/static/media/Maskgroup.2f4add11dd07048ecc9d.png",
     "static/media/Flag_of_Nepal.gif": "/GUTHI/static/media/Flag_of_Nepal.351ba8a834753b72c47e.gif",
     "static/media/shechen-tennyi-dargyeling-golden-temple-in-kathmandu-nepal.jpg": "/GUTHI/static/media/shechen-tennyi-dargyeling-golden-temple-in-kathmandu-nepal.15e861379f2109d01a22.jpg",
     "static/media/Pashupatinath_temple,kathmandu,Nepal.jpg": "/GUTHI/static/media/Pashupatinath_temple,kathmandu,Nepal.cdaefa12d57f3f29ca20.jpg",
@@ -30,12 +30,12 @@
     "static/media/EnglishDescription.txt": "/GUTHI/static/media/EnglishDescription.d2c323a9768069872a06.txt",
     "index.html": "/GUTHI/index.html",
     "static/media/EnglishFlag.svg": "/GUTHI/static/media/EnglishFlag.aac36550119a2382e2a14f7b2386f497.svg",
-    "main.2d2024f6.css.map": "/GUTHI/static/css/main.2d2024f6.css.map",
-    "main.e07bc953.js.map": "/GUTHI/static/js/main.e07bc953.js.map",
+    "main.552b5e5f.css.map": "/GUTHI/static/css/main.552b5e5f.css.map",
+    "main.014b5b9c.js.map": "/GUTHI/static/js/main.014b5b9c.js.map",
     "453.fae8c32d.chunk.js.map": "/GUTHI/static/js/453.fae8c32d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d2024f6.css",
-    "static/js/main.e07bc953.js"
+    "static/css/main.552b5e5f.css",
+    "static/js/main.014b5b9c.js"
   ]
 }
