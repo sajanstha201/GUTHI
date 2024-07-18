@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GUTHI/static/css/main.d2dbd698.css",
-    "main.js": "/GUTHI/static/js/main.a292f9e5.js",
+    "main.css": "/GUTHI/static/css/main.e3226f9d.css",
+    "main.js": "/GUTHI/static/js/main.8b602776.js",
     "static/js/453.94cbe7ac.chunk.js": "/GUTHI/static/js/453.94cbe7ac.chunk.js",
     "static/media/My Movie.mp4": "/GUTHI/static/media/My Movie.a2954e6c0080c9d6e06a.mp4",
     "static/media/architecture.png": "/GUTHI/static/media/architecture.78ff4634ad5a7672924e.png",
@@ -35,16 +35,20 @@
     "static/media/pashupati.jpeg": "/GUTHI/static/media/pashupati.97c239635bca085a3ba7.jpeg",
     "static/media/MithilaFlag.png": "/GUTHI/static/media/MithilaFlag.288c79705a6125dcdb12.png",
     "static/media/NewariDescription.txt": "/GUTHI/static/media/NewariDescription.1675dbb35312ff2a8622.txt",
+    "static/media/slick.svg": "/GUTHI/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/GUTHI/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/GUTHI/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/GUTHI/static/media/slick.295183786cd8a1389865.woff",
     "static/media/EnglishDescription.txt": "/GUTHI/static/media/EnglishDescription.d2c323a9768069872a06.txt",
     "index.html": "/GUTHI/index.html",
     "static/media/EnglishFlag.svg": "/GUTHI/static/media/EnglishFlag.aac36550119a2382e2a14f7b2386f497.svg",
     "static/media/getFetch.cjs": "/GUTHI/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.d2dbd698.css.map": "/GUTHI/static/css/main.d2dbd698.css.map",
-    "main.a292f9e5.js.map": "/GUTHI/static/js/main.a292f9e5.js.map",
+    "main.e3226f9d.css.map": "/GUTHI/static/css/main.e3226f9d.css.map",
+    "main.8b602776.js.map": "/GUTHI/static/js/main.8b602776.js.map",
     "453.94cbe7ac.chunk.js.map": "/GUTHI/static/js/453.94cbe7ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2dbd698.css",
-    "static/js/main.a292f9e5.js"
+    "static/css/main.e3226f9d.css",
+    "static/js/main.8b602776.js"
   ]
 }
