@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "/GUTHI/static/css/main.e3226f9d.css",
-    "main.js": "/GUTHI/static/js/main.8b602776.js",
+    "main.css": "/GUTHI/static/css/main.ad18b7d8.css",
+    "main.js": "/GUTHI/static/js/main.ecff94f8.js",
     "static/js/453.94cbe7ac.chunk.js": "/GUTHI/static/js/453.94cbe7ac.chunk.js",
-    "static/media/My Movie.mp4": "/GUTHI/static/media/My Movie.a2954e6c0080c9d6e06a.mp4",
     "static/media/architecture.png": "/GUTHI/static/media/architecture.78ff4634ad5a7672924e.png",
     "static/media/bg.png": "/GUTHI/static/media/bg.165d9ea365d7974edd34.png",
     "static/media/patandurbarsquare.png": "/GUTHI/static/media/patandurbarsquare.05c078c3648671d1815e.png",
-    "static/media/Flag_of_Nepal.gif": "/GUTHI/static/media/Flag_of_Nepal.351ba8a834753b72c47e.gif",
     "static/media/nepalLandmark.png": "/GUTHI/static/media/nepalLandmark.f4a649f5f4a01c8375fa.png",
     "static/media/image.png": "/GUTHI/static/media/image.b845c19e932b8813e42d.png",
     "static/media/shechen-tennyi-dargyeling-golden-temple-in-kathmandu-nepal.jpg": "/GUTHI/static/media/shechen-tennyi-dargyeling-golden-temple-in-kathmandu-nepal.15e861379f2109d01a22.jpg",
@@ -27,13 +25,11 @@
     "static/media/sagar_shrestha_Resume (1).pdf": "/GUTHI/static/media/sagar_shrestha_Resume (1).90503f7889d533156f0d.pdf",
     "static/media/images.png": "/GUTHI/static/media/images.ee152c6ab1c273a47fd8.png",
     "static/media/5.png": "/GUTHI/static/media/5.ff81ef0d80f65efff588.png",
-    "static/media/NepalFlag.png": "/GUTHI/static/media/NepalFlag.f39402d1a540f1527d13.png",
     "static/media/nepalLogo.png": "/GUTHI/static/media/nepalLogo.db8d98d425bbf1ce8a0d.png",
     "static/media/bouddhanath.jpeg": "/GUTHI/static/media/bouddhanath.b89fdb2d9a9bf0765691.jpeg",
     "static/media/images.jpeg": "/GUTHI/static/media/images.b89fdb2d9a9bf0765691.jpeg",
     "static/media/janaki.jpeg": "/GUTHI/static/media/janaki.a0edb29d221bd73918a5.jpeg",
     "static/media/pashupati.jpeg": "/GUTHI/static/media/pashupati.97c239635bca085a3ba7.jpeg",
-    "static/media/MithilaFlag.png": "/GUTHI/static/media/MithilaFlag.288c79705a6125dcdb12.png",
     "static/media/NewariDescription.txt": "/GUTHI/static/media/NewariDescription.1675dbb35312ff2a8622.txt",
     "static/media/slick.svg": "/GUTHI/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/GUTHI/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -41,14 +37,13 @@
     "static/media/slick.woff": "/GUTHI/static/media/slick.295183786cd8a1389865.woff",
     "static/media/EnglishDescription.txt": "/GUTHI/static/media/EnglishDescription.d2c323a9768069872a06.txt",
     "index.html": "/GUTHI/index.html",
-    "static/media/EnglishFlag.svg": "/GUTHI/static/media/EnglishFlag.aac36550119a2382e2a14f7b2386f497.svg",
     "static/media/getFetch.cjs": "/GUTHI/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.e3226f9d.css.map": "/GUTHI/static/css/main.e3226f9d.css.map",
-    "main.8b602776.js.map": "/GUTHI/static/js/main.8b602776.js.map",
+    "main.ad18b7d8.css.map": "/GUTHI/static/css/main.ad18b7d8.css.map",
+    "main.ecff94f8.js.map": "/GUTHI/static/js/main.ecff94f8.js.map",
     "453.94cbe7ac.chunk.js.map": "/GUTHI/static/js/453.94cbe7ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3226f9d.css",
-    "static/js/main.8b602776.js"
+    "static/css/main.ad18b7d8.css",
+    "static/js/main.ecff94f8.js"
   ]
 }
